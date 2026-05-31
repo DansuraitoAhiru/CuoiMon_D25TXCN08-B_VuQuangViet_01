@@ -312,13 +312,11 @@ Nhập lựa chọn: ''').strip()
                     weak_player = player
 
             print("\n=== CẦU THỦ CÓ ĐIỂM THÀNH TÍCH CAO NHẤT ===")
-
             for player in player_list:
                 if player["diem_thanh_tich"] == best_player["diem_thanh_tich"]:
                     print(player)
 
             print("\n=== CẦU THỦ CÓ ĐIỂM THÀNH TÍCH THẤP NHẤT ===")
-
             for player in player_list:
                 if player["diem_thanh_tich"] == weak_player["diem_thanh_tich"]:
                     print(player)
