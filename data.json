@@ -1,0 +1,29 @@
+[
+    {
+        "ma_ct": "M11",
+        "ten_ct": "siu messi",
+        "so_tran": 36,
+        "ban_thang": 63,
+        "kien_tao": 36,
+        "diem_thanh_tich": 162,
+        "danh_hieu": "Vàng"
+    },
+    {
+        "ma_ct": "M10",
+        "ten_ct": "Messi",
+        "so_tran": 18,
+        "ban_thang": 22,
+        "kien_tao": 8,
+        "diem_thanh_tich": 52,
+        "danh_hieu": "Vàng"
+    },
+    {
+        "ma_ct": "CR7",
+        "ten_ct": "Ronaldo",
+        "so_tran": 20,
+        "ban_thang": 15,
+        "kien_tao": 5,
+        "diem_thanh_tich": 35,
+        "danh_hieu": "Bạc"
+    }
+]
